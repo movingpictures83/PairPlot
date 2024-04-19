@@ -1,0 +1,2 @@
+Prefix plugins/PairPlot/example/
+Plugin PairPlot inputfile tips.csv outputfile output.png
